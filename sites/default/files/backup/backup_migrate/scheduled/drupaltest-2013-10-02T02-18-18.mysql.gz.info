@@ -1,0 +1,8 @@
+filename = "drupaltest-2013-10-02T02-18-18"
+description = ""
+datestamp = "1380673110"
+generator = "Backup and Migrate (http://drupal.org/project/backup_migrate)"
+generatorversion = "7.x-2.x"
+sites[0][version] = "7.21"
+sites[0][name] = "drupaltest"
+sites[0][url] = "http://localhost:8080/drupaltest/"

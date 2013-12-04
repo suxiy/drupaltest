@@ -1,0 +1,5 @@
+/* css3pie */
+#edit-search-block-form--2, .dotcolor1
+{
+  behavior: url(/drupaltest/sites/all/libraries/PIE/PIE.php);
+}
